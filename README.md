@@ -24,7 +24,7 @@ Estou graduando Engenharia de Software pela Universidade Estácio de Sá, para m
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618040435617.png" width="400px" />
 
-- 👨‍💻 Estou estudando backend com **Python**, **HTML5** **PHP** e **CSS**;
+- 👨‍💻 Estou estudando backend com **Python**, **HTML5**, **PHP** e **CSS**;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre Linguagens de programação e pratica-las; 
