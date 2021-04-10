@@ -57,6 +57,6 @@ Estou graduando Engenharia de Software pela Universidade Estácio de Sá, para m
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deivondionisio" alt="David-Dionísio" /> </p>
 
 ⭐️ Baseado em [Strongreen](https://github.com/Strongreen)
