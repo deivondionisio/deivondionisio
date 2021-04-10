@@ -59,4 +59,4 @@ Atualmente estou graduando pela Universidade Estácio de Sá para me tornar um <
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ Baseado em [Strongreen](https://github.com/Strongreen)
