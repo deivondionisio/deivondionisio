@@ -13,12 +13,12 @@
 Me chamo <b> David Dionísio</b>.
 </p>
 <p align="left" >
-Atualmente moro em Uberaba/MG-BR.<br />
-Atualmente estou graduando pela Universidade Estácio de Sá para me tornar um <b>Construtor de software e Produzir Ferramentas e Métodos de Engenharia de Software </b>.
-</p>
 <a href="https://www.linkedin.com/in/david-dionisio-b6395152/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+Atualmente moro em Uberaba/MG-BR.<br />
+Atualmente estou graduando pela Universidade Estácio de Sá para me tornar um <b>Construtor de software e Produzir Ferramentas e Métodos de Engenharia de Software </b>.
+</p>
 <hr/>
 **Meus interesses pessoais:**
 
