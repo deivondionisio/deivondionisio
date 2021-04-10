@@ -1,16 +1,14 @@
 <h1 align="center"> Seja bem vindo e bem vinda! </h1>
-<hr/>
+<hr />
 <a href="https://github.com/deivondionisio" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
-<br/>
+</a><br />
 <p align="left" > 
   <b>Oooooooi Pessoal, Oooooooi!</b>
 </p>
 <a href="https://www.instagram.com/deivon_dionisio/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
-<br/>
+</a><br />
 <p align="left" >
 Me chamo <b> David Dionísio</b>.
 </p>
@@ -21,12 +19,10 @@ Atualmente estou graduando pela Universidade Estácio de Sá para me tornar um <
 <a href="https://www.linkedin.com/in/david-dionisio-b6395152/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-
-<hr />
-
+<hr/>
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618040435617.png" width="400px" />
 
 - 👩‍💻 Estou estudando backend com **MySQL**, **Express** e utilizando o framework **Node.js**;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
