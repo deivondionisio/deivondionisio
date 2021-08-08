@@ -56,7 +56,8 @@ Estou graduando Engenharia de Software pela Universidade Estácio de Sá, para m
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
 </p>
 
+![Snake animation](https://github.com/deivondionisio/deivondionisio/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deivondionisio" alt="David-Dionísio" /> </p>
 
-⭐️ Baseado em [Strongreen](https://github.com/Strongreen)
+
