@@ -1,63 +1,26 @@
-<h1 align="center"> Seja bem vindo e bem vinda! </h1>
-<hr />
-<a href="https://github.com/deivondionisio" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
-<p align="left" > 
-  <b>Oooooooi Pessoal, Oooooooi!</b>
-</p>
-<a href="https://www.instagram.com/deivon_dionisio/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
-<p align="left" >
-Me chamo <b> David Dionísio</b>.
-</p>
-<p align="left" >
-<a href="https://www.linkedin.com/in/david-dionisio-b6395152/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-Atualmente moro em Uberaba/MG-BR.<br />
-Estou graduando Engenharia de Software pela Universidade Estácio de Sá, para me tornar um <b>Construtor de software e Produzir Ferramentas e Métodos de Engenharia de Software </b>.
-</p>
-<hr/>
-**Meus interesses pessoais:**
-
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618040435617.png" width="400px" />
-
-- 👨‍💻 Estou estudando backend com **C#**, **Python**, **HTML5**, **PHP** e **CSS**;
-- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar sobre Linguagens de programação e pratica-las; 
-  - Ler Livros;
-  - Assistir vídeos de Youtubers sobre Tecnologias e Novidades;
-  - Pescar com os Amigos;
-  - Jogar Dota 2 e Scum;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para david.dionisio@outlook.com .
-- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações.
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivondionisio&layout=compact&theme=graywhite&title_color=268bd2" alt="David-Dionisio" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deivondionisio&layout_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="David-Dionísio" />
-</p>
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-</p>
-
-![Snake animation](https://github.com/deivondionisio/deivondionisio/blob/output/github-contribution-grid-snake.svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deivondionisio" alt="David-Dionísio" /> </p>
-
-
+## Oiii! Eu sou o David Dionísio 
+ <div>
+  <a href="https://github.com/deivondionisio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivondionisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivondionisio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+ <div style="display: inline_block"><br>
+    <img align="center" alt="Deivon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Deivon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Deivon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Deivon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Deivon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+</div>
+  
+   ##
+ 
+<div> 
+   <a href="https://www.instagram.com/deivon_dionisio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@deivondionisio.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/david-dionisio-b6395152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
