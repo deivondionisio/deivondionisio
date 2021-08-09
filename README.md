@@ -1,6 +1,5 @@
 <h1> Oiii! Eu sou o David Dionísio. <img src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif" width="24"/></h1>
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
-<li> 💻 𝖨'𝗆 𝗌𝗍𝗎𝖽𝗒𝗂𝗇𝗀 𝗍𝗈 𝖻𝖾𝖼𝗈𝗆𝖾 𝖺 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+
 <li> 🧠 Atualmente estou aprendendo Python e Pandas </li>
 <li> 👨‍🎓 Graduando Engenharia de Software </li>
 <li> 👊 Evolução é o meu foco </li>
