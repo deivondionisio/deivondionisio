@@ -1,9 +1,9 @@
-<h1> Oiii! Eu sou o David Dionísio. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> Oiii! Eu sou o David Dionísio. <img src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif" width="24"/></h1>
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 <li> 💻 𝖨'𝗆 𝗌𝗍𝗎𝖽𝗒𝗂𝗇𝗀 𝗍𝗈 𝖻𝖾𝖼𝗈𝗆𝖾 𝖺 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲 </li>
-<li> 😍 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
-<li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/Him </li>
+<li> 🧠 Atualmente estou aprendendo Python e Pandas </li>
+<li> 👨‍🎓 Graduando Engenharia de Software </li>
+<li> 👊 Evolução é o meu foco </li>
 <br/>
  <div>
   <a href="https://github.com/deivondionisio">
