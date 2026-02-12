@@ -6,112 +6,111 @@
 
 **Automação • Observabilidade • Segurança • Confiabilidade**
 
-<a href="https://www.linkedin.com/in/david-dionisio-b6395152/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Dion%C3%ADsio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/deivon_dionisio"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@deivon_dionisio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:deivondionisio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-deivondionisio%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Dion%C3%ADsio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dionisio-b6395152/)
+[![Instagram](https://img.shields.io/badge/Instagram-@deivon_dionisio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deivon_dionisio)
+[![Gmail](https://img.shields.io/badge/Gmail-deivondionisio%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivondionisio@gmail.com)
 
 </div>
 
 ---
 
 ## ⚙️ Sobre mim
-- 🧑‍💻 **DevOps / DevSecOps** focado em _CI/CD_, _IaC_, _observabilidade_ e _segurança por padrão_.
+- 🧑‍💻 **DevOps / DevSecOps** focado em CI/CD, IaC, observabilidade e segurança por padrão.
 - 👨‍🎓 **Graduado em Engenharia de Software.**
-- 🎯 **Objetivo atual:** fortalecer práticas **DevSecOps** (SAST, DAST, SBOM, Secret Scanning, Policy-as-Code) e elevar confiabilidade dos pipelines e plataformas.
+- 🎯 Objetivo atual: consolidar práticas **DevSecOps** (SAST, DAST, SBOM, Secrets e Policy-as-Code) e elevar a confiabilidade de plataformas.
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Stack Principal (badges)
 
-**Plataforma & Observabilidade**  
 ![Grafana](https://img.shields.io/badge/Grafana-FF8800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-
-**Container & Orquestração**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Código & Pipelines**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Linguagens & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Bancos de Dados**  
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=222)
-
-**Low-code & BI**  
 ![Mendix](https://img.shields.io/badge/Mendix-0662FF?style=for-the-badge&logo=mendix&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=222)
-
-**Mobility & Design**  
+![Power BI Embedded](https://img.shields.io/badge/Power%20BI%20Embedded-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Play Console](https://img.shields.io/badge/Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**AI & Orquestração**  
 ![Flowise](https://img.shields.io/badge/Flowise-0F172A?style=for-the-badge&logo=graphql&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)
-
-> *Também navego entre automação, infraestrutura e monitoramento para entregar plataformas mais seguras e eficientes.*
 
 ---
 
 ## 🧰 Toolbox (ícones)
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-plain.svg" alt="xcode" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="42" height="42"/>
-</p>
 
-> **Se algum ícone não aparecer (ex.: TailwindCSS):** o GitHub pode bloquear temporariamente recursos de CDN. Atualize a página, ou substitua o `<img>` por badge do Shields (já usei ambos no README).
+![Docker](https://img.shields.io/badge/Docker-Tool-1F2937?style=flat&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Tool-1F2937?style=flat&logo=kubernetes&logoColor=326CE5)
+![Grafana](https://img.shields.io/badge/Grafana-Tool-1F2937?style=flat&logo=grafana&logoColor=FF8800)
+![Zabbix](https://img.shields.io/badge/Zabbix-Tool-1F2937?style=flat&logo=zabbix&logoColor=CC0000)
+![Git](https://img.shields.io/badge/Git-Tool-1F2937?style=flat&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Tool-1F2937?style=flat&logo=githubactions&logoColor=2088FF)
+![Terraform](https://img.shields.io/badge/Terraform-Tool-1F2937?style=flat&logo=terraform&logoColor=7B42BC)
+![TypeScript](https://img.shields.io/badge/TypeScript-Tool-1F2937?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-Tool-1F2937?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-Tool-1F2937?style=flat&logo=node.js&logoColor=339933)
+![Node-RED](https://img.shields.io/badge/Node--RED-Tool-1F2937?style=flat&logo=nodered&logoColor=8F0000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Tool-1F2937?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/Python-Tool-1F2937?style=flat&logo=python&logoColor=3776AB)
+![C%23](https://img.shields.io/badge/C%23-Tool-1F2937?style=flat&logo=csharp&logoColor=239120)
+![Blazor](https://img.shields.io/badge/Blazor-Tool-1F2937?style=flat&logo=blazor&logoColor=5C2D91)
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-Tool-1F2937?style=flat&logo=oracle&logoColor=F80000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Tool-1F2937?style=flat&logo=postgresql&logoColor=4169E1)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-Tool-1F2937?style=flat&logo=influxdb&logoColor=22ADF6)
+![MongoDB](https://img.shields.io/badge/MongoDB-Tool-1F2937?style=flat&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-Tool-1F2937?style=flat&logo=supabase&logoColor=3ECF8E)
+![Mendix](https://img.shields.io/badge/Mendix-Tool-1F2937?style=flat&logo=mendix&logoColor=0662FF)
+![Power BI](https://img.shields.io/badge/Power%20BI-Tool-1F2937?style=flat&logo=powerbi&logoColor=F2C811)
+![Power BI Embedded](https://img.shields.io/badge/Power%20BI%20Embedded-Tool-1F2937?style=flat&logo=powerbi&logoColor=F2C811)
+![Play Console](https://img.shields.io/badge/Play%20Console-Tool-1F2937?style=flat&logo=googleplay&logoColor=34A853)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-Tool-1F2937?style=flat&logo=apple&logoColor=ffffff)
+![Xcode](https://img.shields.io/badge/Xcode-Tool-1F2937?style=flat&logo=xcode&logoColor=1575F9)
+![Figma](https://img.shields.io/badge/Figma-Tool-1F2937?style=flat&logo=figma&logoColor=F24E1E)
+![Flowise](https://img.shields.io/badge/Flowise-Tool-1F2937?style=flat&logo=graphql&logoColor=E10098)
+![Coolify](https://img.shields.io/badge/Coolify-Tool-1F2937?style=flat&logo=cloudflarepages&logoColor=ffffff)
 
 ---
 
-## 📈 Métricas
-<div align="center">
-  <!-- Se não carregar, abra os links diretos ou considere self-host -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deivondionisio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivondionisio&layout=compact&langs_count=8&theme=github_dark" alt="Top Langs" />
-</div>
+## 🔐 DevSecOps (painel)
 
-> **Se os cards não carregarem:** pode ser limitação de taxa do Vercel. Alternativas: **fork + deploy próprio** do `anuraghazra/github-readme-stats` no Vercel com `GH_TOKEN`, ou usar `github-profile-summary-cards`.
-
----
-
-## 🔐 DevSecOps em foco (substitui o Snake)
-
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-1A1A1A?style=for-the-badge&logo=owasp&logoColor=white)
-![SAST](https://img.shields.io/badge/SAST-Enabled-1f2937?style=for-the-badge&logo=sonarlint&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-111827?style=for-the-badge&logo=owasp&logoColor=white)
+![SAST](https://img.shields.io/badge/SAST-Enabled-111827?style=for-the-badge&logo=sonarlint&logoColor=white)
 ![DAST](https://img.shields.io/badge/DAST-Enabled-111827?style=for-the-badge&logo=zap&logoColor=white)
-![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-0b1220?style=for-the-badge&logo=dependabot&logoColor=white)
-![Secrets](https://img.shields.io/badge/Secrets-Scanning-0B132B?style=for-the-badge&logo=github&logoColor=white)
+![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-111827?style=for-the-badge&logo=dependabot&logoColor=white)
+![Secrets](https://img.shields.io/badge/Secrets-Scanning-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Policy%20as%20Code](https://img.shields.io/badge/Policy%20as%20Code-OPA%2FConftest-111827?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 
 ---
 
+## 📊 Métricas (estáveis)
+
+![Followers](https://img.shields.io/badge/Followers-@deivondionisio-111827?style=flat&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-Repos-111827?style=flat&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-YTD-111827?style=flat&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-Count-111827?style=flat&logo=github&logoColor=white)
+
+---
+
 ## ✉️ Contato
+
 - 💼 LinkedIn: **[David Dionísio](https://www.linkedin.com/in/david-dionisio-b6395152/)**  
 - 📫 E-mail: **[deivondionisio@gmail.com](mailto:deivondionisio@gmail.com)**  
 - 📸 Instagram: **[@deivon_dionisio](https://www.instagram.com/deivon_dionisio)**
