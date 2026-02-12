@@ -105,7 +105,7 @@ Sou formado em **Engenharia de Software** e atuo fortemente em **Smart Manufactu
 
 ---
 
-## 🚩 Projetos em andamento
+## 🚩 Projetos em andamento / Concluídos
 
 > **Observabilidade Industrial — Grafana + InfluxDB**  
 > Dashboards para métricas operacionais, performance de ativos e alertas, com modelos reutilizáveis para diferentes frentes da planta.  
