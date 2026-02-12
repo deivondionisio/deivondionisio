@@ -6,9 +6,9 @@
 
 **Automação • Observabilidade • Segurança • Confiabilidade**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Dion%C3%ADsio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dionisio-b6395152/)
-[![Instagram](https://img.shields.io/badge/Instagram-@deivon_dionisio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deivon_dionisio)
-[![Gmail](https://img.shields.io/badge/Gmail-deivondionisio%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivondionisio@gmail.com)
+<a href="https://www.linkedin.com/in/david-dionisio-b6395152/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Dion%C3%ADsio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/deivon_dionisio"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@deivon_dionisio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:deivondionisio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-deivondionisio%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -54,7 +54,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=222)
 
 **Mobility & Design**  
-![Google Play Console](https://img.shields.io/badge/Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Play Console](https://img.shields.io/badge/Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -85,26 +85,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="42" height="42"/>
 </p>
 
+> **Se algum ícone não aparecer (ex.: TailwindCSS):** o GitHub pode bloquear temporariamente recursos de CDN. Atualize a página, ou substitua o `<img>` por badge do Shields (já usei ambos no README).
+
 ---
 
 ## 📈 Métricas
 <div align="center">
-  
-  <!-- Se não carregar, tente abrir o link direto para verificar disponibilidade do serviço do Vercel -->
+  <!-- Se não carregar, abra os links diretos ou considere self-host -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=deivondionisio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivondionisio&layout=compact&langs_count=8&theme=github_dark" alt="Top Langs" />
 </div>
 
-> **Dica:** Se os cards acima não carregarem, é por instabilidade/limite do serviço de terceiros. Como alternativa, use o projeto [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) com um **fork próprio** (deploy no Vercel) e a sua `GH_TOKEN`.
+> **Se os cards não carregarem:** pode ser limitação de taxa do Vercel. Alternativas: **fork + deploy próprio** do `anuraghazra/github-readme-stats` no Vercel com `GH_TOKEN`, ou usar `github-profile-summary-cards`.
 
 ---
 
-## 🔐 DevSecOps em foco
-- SAST, DAST e geração de **SBOM** em pipelines CI/CD.
-- **Secret scanning** e **policy-as-code** (controle de conformidade e gates).
-- Observabilidade ponta a ponta com métricas, logs e alertas acionáveis.
-
-### 🔒 Painel rápido (substitui o Snake)
+## 🔐 DevSecOps em foco (substitui o Snake)
 
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-1A1A1A?style=for-the-badge&logo=owasp&logoColor=white)
 ![SAST](https://img.shields.io/badge/SAST-Enabled-1f2937?style=for-the-badge&logo=sonarlint&logoColor=white)
