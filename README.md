@@ -110,32 +110,26 @@ Sou formado em **Engenharia de Software** e atuo fortemente em **Smart Manufactu
 > **Observabilidade Industrial — Grafana + InfluxDB**  
 > Dashboards para métricas operacionais, performance de ativos e alertas, com modelos reutilizáveis para diferentes frentes da planta.  
 > **Stack:** Grafana • InfluxDB • Zabbix • Docker  
-> **Status:** Em breve: link público
 
 > **Pipeline CI/CD com DevSecOps**  
 > Pipeline com checagens de segurança (SAST/DAST, SBOM, secrets), testes automatizados e versionamento, promovendo releases previsíveis.  
 > **Stack:** GitHub Actions • Node.js/TypeScript • OPA/Conftest • Terraform  
-> **Status:** Em breve: link público
 
 > **Orquestração de Apps**  
 > Deploy e escalonamento de serviços containerizados, com health checks e rollouts controlados.  
 > **Stack:** Docker • Kubernetes • Coolify  
-> **Status:** Em breve: link público
 
 > **Automação industrial low-code**  
 > Protótipos e módulos de integração para processos industriais em plataforma low-code.  
-> **Stack:** Mendix • Node-RED • Oracle SQL / PostgreSQL  
-> **Status:** Em breve: link público
+> **Stack:** Mendix • Oracle SQL / PostgreSQL  
 
 > **Analytics com Power BI Embedded**  
 > Embedding seguro de relatórios para consumo corporativo com governança e controle de acesso.  
 > **Stack:** Power BI Embedded • Supabase • Node.js  
-> **Status:** Em breve: link público
 
 > **Backend API para Telemetria**  
 > API para ingestão e consulta de sinais de processo, com persistência híbrida e endpoints otimizados.  
 > **Stack:** Node.js • TypeScript • PostgreSQL/MongoDB  
-> **Status:** Em breve: link público
 
 ---
 
