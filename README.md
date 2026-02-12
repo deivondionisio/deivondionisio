@@ -117,4 +117,4 @@
 
 ---
 
-<p align="center"><i>Feito com foco em clareza, performance e segurança ✨</i></p>
+<p align="center"><i>Feito com foco em clareza, performance e segurança. ✨</i></p>
