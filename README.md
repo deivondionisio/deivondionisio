@@ -16,7 +16,7 @@
 
 ## ⚙️ Sobre mim
 - 🧑‍💻 **DevOps / DevSecOps** focado em _CI/CD_, _IaC_, _observabilidade_ e _segurança por padrão_.
-- 👨‍🎓 **Graduando em Engenharia de Software.**
+- 👨‍🎓 **Graduado em Engenharia de Software.**
 - 🎯 **Objetivo atual:** fortalecer práticas **DevSecOps** (SAST, DAST, SBOM, Secret Scanning, Policy-as-Code) e elevar confiabilidade dos pipelines e plataformas.
 
 ---
