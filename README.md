@@ -33,7 +33,8 @@
 
 **Código & Pipelines**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Linguagens & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,12 +47,20 @@
 **Bancos de Dados**  
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=222)
 
 **Low-code & BI**  
 ![Mendix](https://img.shields.io/badge/Mendix-0662FF?style=for-the-badge&logo=mendix&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=222)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=222)
 
-**Plataforma**  
+**Mobility & Design**  
+![Google Play Console](https://img.shields.io/badge/Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**AI & Orquestração**  
+![Flowise](https://img.shields.io/badge/Flowise-0F172A?style=for-the-badge&logo=graphql&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 
 > *Também navego entre automação, infraestrutura e monitoramento para entregar plataformas mais seguras e eficientes.*
@@ -70,15 +79,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-plain.svg" alt="xcode" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="42" height="42"/>
 </p>
 
 ---
 
 ## 📈 Métricas
 <div align="center">
+  
+  <!-- Se não carregar, tente abrir o link direto para verificar disponibilidade do serviço do Vercel -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=deivondionisio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivondionisio&layout=compact&langs_count=8&theme=github_dark" alt="Top Langs" />
 </div>
+
+> **Dica:** Se os cards acima não carregarem, é por instabilidade/limite do serviço de terceiros. Como alternativa, use o projeto [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) com um **fork próprio** (deploy no Vercel) e a sua `GH_TOKEN`.
 
 ---
 
@@ -87,30 +104,21 @@
 - **Secret scanning** e **policy-as-code** (controle de conformidade e gates).
 - Observabilidade ponta a ponta com métricas, logs e alertas acionáveis.
 
+### 🔒 Painel rápido (substitui o Snake)
+
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-1A1A1A?style=for-the-badge&logo=owasp&logoColor=white)
+![SAST](https://img.shields.io/badge/SAST-Enabled-1f2937?style=for-the-badge&logo=sonarlint&logoColor=white)
+![DAST](https://img.shields.io/badge/DAST-Enabled-111827?style=for-the-badge&logo=zap&logoColor=white)
+![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-0b1220?style=for-the-badge&logo=dependabot&logoColor=white)
+![Secrets](https://img.shields.io/badge/Secrets-Scanning-0B132B?style=for-the-badge&logo=github&logoColor=white)
+![Policy%20as%20Code](https://img.shields.io/badge/Policy%20as%20Code-OPA%2FConftest-111827?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+
 ---
 
 ## ✉️ Contato
 - 💼 LinkedIn: **[David Dionísio](https://www.linkedin.com/in/david-dionisio-b6395152/)**  
 - 📫 E-mail: **[deivondionisio@gmail.com](mailto:deivondionisio@gmail.com)**  
 - 📸 Instagram: **[@deivon_dionisio](https://www.instagram.com/deivon_dionisio)**
-
----
-
-## 🐍 Snake (grade de contribuições)
-> Para modo claro/escuro. É necessário ter o workflow configurado.
-
-![Snake dark](https://github.com/deivondionisio/deivondionisio/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake light](https://github.com/deivondionisio/deivondionisio/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<details>
-  <summary>Como habilitar (clique para abrir)</summary>
-
-  1. Crie o arquivo `.github/workflows/snake.yml` no repositório **deivondionisio/deivondionisio**.
-  2. Use um workflow compatível com **Platane/snk** para gerar o SVG nas branches `output`.
-  3. Confirme se os caminhos acima (URLs) apontam para `blob/output/`.
-
-  > Se quiser, eu gero o `snake.yml` pra você automaticamente. É só pedir.
-</details>
 
 ---
 
